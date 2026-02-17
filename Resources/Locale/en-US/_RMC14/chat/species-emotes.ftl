@@ -25,6 +25,7 @@ rmc-emote-yip = yips.
 rmc-emote-name-gnash = Gnash
 rmc-emote-gnash = gnashes.
 
+rmc-emote-name-weh = wehs
 rmc-emote-name-r-rattle = Rattle Tail
 
 rmc-emote-r-rattle = rattles {POSS-ADJ($entity)} tail.
